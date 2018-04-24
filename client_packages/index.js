@@ -1,0 +1,4 @@
+
+
+require('sequelize/index.js');
+
