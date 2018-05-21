@@ -1,0 +1,874 @@
+WARNING in C:/RAGEMP/server-files/node_modules/sqlite3/node_modules/node-pre-gyp/lib/util/versioning.js
+17:20-67 Critical dependency: the request of a dependency is an expression
+ @ C:/RAGEMP/server-files/node_modules/sqlite3/node_modules/node-pre-gyp/lib/util/versioning.js
+ @ C:/RAGEMP/server-files/node_modules/sqlite3/node_modules/node-pre-gyp/lib ^\.\/.*$
+ @ C:/RAGEMP/server-files/node_modules/sqlite3/node_modules/node-pre-gyp/lib/node-pre-gyp.js
+ @ C:/RAGEMP/server-files/node_modules/sqlite3/lib/sqlite3.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/lib/dialects/sqlite/connection-manager.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/lib/dialects/sqlite/index.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/lib/sequelize.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/index.js
+ @ ./index.js
+
+WARNING in C:/RAGEMP/server-files/node_modules/sqlite3/node_modules/node-pre-gyp/lib/pre-binding.js
+20:22-48 Critical dependency: the request of a dependency is an expression
+ @ C:/RAGEMP/server-files/node_modules/sqlite3/node_modules/node-pre-gyp/lib/pre-binding.js
+ @ C:/RAGEMP/server-files/node_modules/sqlite3/node_modules/node-pre-gyp/lib/node-pre-gyp.js
+ @ C:/RAGEMP/server-files/node_modules/sqlite3/lib/sqlite3.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/lib/dialects/sqlite/connection-manager.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/lib/dialects/sqlite/index.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/lib/sequelize.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/index.js
+ @ ./index.js
+
+WARNING in C:/RAGEMP/server-files/node_modules/sequelize/lib/dialects/mssql/connection-manager.js
+21:19-62 Critical dependency: the request of a dependency is an expression
+ @ C:/RAGEMP/server-files/node_modules/sequelize/lib/dialects/mssql/connection-manager.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/lib/dialects/mssql/index.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/lib/sequelize.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/index.js
+ @ ./index.js
+
+WARNING in C:/RAGEMP/server-files/node_modules/sequelize/lib/dialects/postgres/connection-manager.js
+22:16-59 Critical dependency: the request of a dependency is an expression
+ @ C:/RAGEMP/server-files/node_modules/sequelize/lib/dialects/postgres/connection-manager.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/lib/dialects/postgres/index.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/lib/sequelize.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/index.js
+ @ ./index.js
+
+WARNING in C:/RAGEMP/server-files/node_modules/sequelize/lib/dialects/sqlite/connection-manager.js
+25:19-62 Critical dependency: the request of a dependency is an expression
+ @ C:/RAGEMP/server-files/node_modules/sequelize/lib/dialects/sqlite/connection-manager.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/lib/dialects/sqlite/index.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/lib/sequelize.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/index.js
+ @ ./index.js
+
+WARNING in C:/RAGEMP/server-files/node_modules/sequelize/lib/dialects/mysql/connection-manager.js
+32:19-62 Critical dependency: the request of a dependency is an expression
+ @ C:/RAGEMP/server-files/node_modules/sequelize/lib/dialects/mysql/connection-manager.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/lib/dialects/mysql/index.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/lib/sequelize.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/index.js
+ @ ./index.js
+
+WARNING in C:/RAGEMP/server-files/node_modules/sequelize/lib/sequelize.js
+393:61-74 Critical dependency: the request of a dependency is an expression
+ @ C:/RAGEMP/server-files/node_modules/sequelize/lib/sequelize.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/index.js
+ @ ./index.js
+
+WARNING in C:/RAGEMP/server-files/node_modules/sqlite3/lib/sqlite3.js
+4:14-35 Critical dependency: the request of a dependency is an expression
+ @ C:/RAGEMP/server-files/node_modules/sqlite3/lib/sqlite3.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/lib/dialects/sqlite/connection-manager.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/lib/dialects/sqlite/index.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/lib/sequelize.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/index.js
+ @ ./index.js
+
+WARNING in C:/RAGEMP/server-files/node_modules/sqlite3/node_modules/node-pre-gyp/lib/util/compile.js
+Module not found: Error: Can't resolve 'node-gyp' in 'C:\RAGEMP\server-files\node_modules\sqlite3\node_modules\node-pre-gyp\lib\util'
+ @ C:/RAGEMP/server-files/node_modules/sqlite3/node_modules/node-pre-gyp/lib/util/compile.js 29:28-55
+ @ C:/RAGEMP/server-files/node_modules/sqlite3/node_modules/node-pre-gyp/lib ^\.\/.*$
+ @ C:/RAGEMP/server-files/node_modules/sqlite3/node_modules/node-pre-gyp/lib/node-pre-gyp.js
+ @ C:/RAGEMP/server-files/node_modules/sqlite3/lib/sqlite3.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/lib/dialects/sqlite/connection-manager.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/lib/dialects/sqlite/index.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/lib/sequelize.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/index.js
+ @ ./index.js
+
+WARNING in C:/RAGEMP/server-files/node_modules/sqlite3/node_modules/node-pre-gyp/lib/util/compile.js
+Module not found: Error: Can't resolve 'npm' in 'C:\RAGEMP\server-files\node_modules\sqlite3\node_modules\node-pre-gyp\lib\util'
+ @ C:/RAGEMP/server-files/node_modules/sqlite3/node_modules/node-pre-gyp/lib/util/compile.js 39:27-49
+ @ C:/RAGEMP/server-files/node_modules/sqlite3/node_modules/node-pre-gyp/lib ^\.\/.*$
+ @ C:/RAGEMP/server-files/node_modules/sqlite3/node_modules/node-pre-gyp/lib/node-pre-gyp.js
+ @ C:/RAGEMP/server-files/node_modules/sqlite3/lib/sqlite3.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/lib/dialects/sqlite/connection-manager.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/lib/dialects/sqlite/index.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/lib/sequelize.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/index.js
+ @ ./index.js
+
+WARNING in C:/RAGEMP/server-files/node_modules/sqlite3/node_modules/node-pre-gyp/lib/util/nw-pre-gyp/index.html
+Module parse failed: Unexpected token (1:0)
+You may need an appropriate loader to handle this file type.
+| <!doctype html>
+| <html>
+| <head>
+ @ C:/RAGEMP/server-files/node_modules/sqlite3/node_modules/node-pre-gyp/lib ^\.\/.*$
+ @ C:/RAGEMP/server-files/node_modules/sqlite3/node_modules/node-pre-gyp/lib/node-pre-gyp.js
+ @ C:/RAGEMP/server-files/node_modules/sqlite3/lib/sqlite3.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/lib/dialects/sqlite/connection-manager.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/lib/dialects/sqlite/index.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/lib/sequelize.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/index.js
+ @ ./index.js
+
+ERROR in C:/RAGEMP/server-files/node_modules/sqlite3/node_modules/node-pre-gyp/lib/publish.js
+Module not found: Error: Can't resolve 'aws-sdk' in 'C:\RAGEMP\server-files\node_modules\sqlite3\node_modules\node-pre-gyp\lib'
+ @ C:/RAGEMP/server-files/node_modules/sqlite3/node_modules/node-pre-gyp/lib/publish.js 18:14-32
+ @ C:/RAGEMP/server-files/node_modules/sqlite3/node_modules/node-pre-gyp/lib ^\.\/.*$
+ @ C:/RAGEMP/server-files/node_modules/sqlite3/node_modules/node-pre-gyp/lib/node-pre-gyp.js
+ @ C:/RAGEMP/server-files/node_modules/sqlite3/lib/sqlite3.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/lib/dialects/sqlite/connection-manager.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/lib/dialects/sqlite/index.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/lib/sequelize.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/index.js
+ @ ./index.js
+
+ERROR in C:/RAGEMP/server-files/node_modules/sqlite3/node_modules/node-pre-gyp/lib/unpublish.js
+Module not found: Error: Can't resolve 'aws-sdk' in 'C:\RAGEMP\server-files\node_modules\sqlite3\node_modules\node-pre-gyp\lib'
+ @ C:/RAGEMP/server-files/node_modules/sqlite3/node_modules/node-pre-gyp/lib/unpublish.js 16:14-32
+ @ C:/RAGEMP/server-files/node_modules/sqlite3/node_modules/node-pre-gyp/lib ^\.\/.*$
+ @ C:/RAGEMP/server-files/node_modules/sqlite3/node_modules/node-pre-gyp/lib/node-pre-gyp.js
+ @ C:/RAGEMP/server-files/node_modules/sqlite3/lib/sqlite3.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/lib/dialects/sqlite/connection-manager.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/lib/dialects/sqlite/index.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/lib/sequelize.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/index.js
+ @ ./index.js
+
+ERROR in C:/RAGEMP/server-files/node_modules/sqlite3/node_modules/node-pre-gyp/lib/info.js
+Module not found: Error: Can't resolve 'aws-sdk' in 'C:\RAGEMP\server-files\node_modules\sqlite3\node_modules\node-pre-gyp\lib'
+ @ C:/RAGEMP/server-files/node_modules/sqlite3/node_modules/node-pre-gyp/lib/info.js 14:14-32
+ @ C:/RAGEMP/server-files/node_modules/sqlite3/node_modules/node-pre-gyp/lib ^\.\/.*$
+ @ C:/RAGEMP/server-files/node_modules/sqlite3/node_modules/node-pre-gyp/lib/node-pre-gyp.js
+ @ C:/RAGEMP/server-files/node_modules/sqlite3/lib/sqlite3.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/lib/dialects/sqlite/connection-manager.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/lib/dialects/sqlite/index.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/lib/sequelize.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/index.js
+ @ ./index.js
+
+ERROR in C:/RAGEMP/server-files/node_modules/sqlite3/node_modules/detect-libc/lib/detect-libc.js
+Module not found: Error: Can't resolve 'child_process' in 'C:\RAGEMP\server-files\node_modules\sqlite3\node_modules\detect-libc\lib'
+ @ C:/RAGEMP/server-files/node_modules/sqlite3/node_modules/detect-libc/lib/detect-libc.js 4:16-40
+ @ C:/RAGEMP/server-files/node_modules/sqlite3/node_modules/node-pre-gyp/lib/util/versioning.js
+ @ C:/RAGEMP/server-files/node_modules/sqlite3/node_modules/node-pre-gyp/lib ^\.\/.*$
+ @ C:/RAGEMP/server-files/node_modules/sqlite3/node_modules/node-pre-gyp/lib/node-pre-gyp.js
+ @ C:/RAGEMP/server-files/node_modules/sqlite3/lib/sqlite3.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/lib/dialects/sqlite/connection-manager.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/lib/dialects/sqlite/index.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/lib/sequelize.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/index.js
+ @ ./index.js
+
+ERROR in C:/RAGEMP/server-files/node_modules/sqlite3/node_modules/node-pre-gyp/lib/testbinary.js
+Module not found: Error: Can't resolve 'child_process' in 'C:\RAGEMP\server-files\node_modules\sqlite3\node_modules\node-pre-gyp\lib'
+ @ C:/RAGEMP/server-files/node_modules/sqlite3/node_modules/node-pre-gyp/lib/testbinary.js 10:9-33
+ @ C:/RAGEMP/server-files/node_modules/sqlite3/node_modules/node-pre-gyp/lib ^\.\/.*$
+ @ C:/RAGEMP/server-files/node_modules/sqlite3/node_modules/node-pre-gyp/lib/node-pre-gyp.js
+ @ C:/RAGEMP/server-files/node_modules/sqlite3/lib/sqlite3.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/lib/dialects/sqlite/connection-manager.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/lib/dialects/sqlite/index.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/lib/sequelize.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/index.js
+ @ ./index.js
+
+ERROR in C:/RAGEMP/server-files/node_modules/sqlite3/node_modules/node-pre-gyp/lib/util/compile.js
+Module not found: Error: Can't resolve 'child_process' in 'C:\RAGEMP\server-files\node_modules\sqlite3\node_modules\node-pre-gyp\lib\util'
+ @ C:/RAGEMP/server-files/node_modules/sqlite3/node_modules/node-pre-gyp/lib/util/compile.js 9:9-33
+ @ C:/RAGEMP/server-files/node_modules/sqlite3/node_modules/node-pre-gyp/lib ^\.\/.*$
+ @ C:/RAGEMP/server-files/node_modules/sqlite3/node_modules/node-pre-gyp/lib/node-pre-gyp.js
+ @ C:/RAGEMP/server-files/node_modules/sqlite3/lib/sqlite3.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/lib/dialects/sqlite/connection-manager.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/lib/dialects/sqlite/index.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/lib/sequelize.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/index.js
+ @ ./index.js
+
+ERROR in C:/RAGEMP/server-files/node_modules/sqlite3/node_modules/osenv/osenv.js
+Module not found: Error: Can't resolve 'child_process' in 'C:\RAGEMP\server-files\node_modules\sqlite3\node_modules\osenv'
+ @ C:/RAGEMP/server-files/node_modules/sqlite3/node_modules/osenv/osenv.js 3:11-35
+ @ C:/RAGEMP/server-files/node_modules/sqlite3/node_modules/nopt/lib/nopt.js
+ @ C:/RAGEMP/server-files/node_modules/sqlite3/node_modules/node-pre-gyp/lib/node-pre-gyp.js
+ @ C:/RAGEMP/server-files/node_modules/sqlite3/lib/sqlite3.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/lib/dialects/sqlite/connection-manager.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/lib/dialects/sqlite/index.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/lib/sequelize.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/index.js
+ @ ./index.js
+
+ERROR in C:/RAGEMP/server-files/node_modules/tedious/lib/sender.js
+Module not found: Error: Can't resolve 'dgram' in 'C:\RAGEMP\server-files\node_modules\tedious\lib'
+ @ C:/RAGEMP/server-files/node_modules/tedious/lib/sender.js 13:12-28
+ @ C:/RAGEMP/server-files/node_modules/tedious/lib/instance-lookup.js
+ @ C:/RAGEMP/server-files/node_modules/tedious/lib/connection.js
+ @ C:/RAGEMP/server-files/node_modules/tedious/lib/tedious.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/lib/dialects/mssql/connection-manager.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/lib/dialects/mssql/index.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/lib/sequelize.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/index.js
+ @ ./index.js
+
+ERROR in C:/RAGEMP/server-files/node_modules/pg/lib/connection-parameters.js
+Module not found: Error: Can't resolve 'dns' in 'C:\RAGEMP\server-files\node_modules\pg\lib'
+ @ C:/RAGEMP/server-files/node_modules/pg/lib/connection-parameters.js 10:10-24
+ @ C:/RAGEMP/server-files/node_modules/pg/lib/client.js
+ @ C:/RAGEMP/server-files/node_modules/pg/lib/index.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/lib/dialects/postgres/connection-manager.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/lib/dialects/postgres/index.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/lib/sequelize.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/index.js
+ @ ./index.js
+
+ERROR in C:/RAGEMP/server-files/node_modules/tedious/lib/sender.js
+Module not found: Error: Can't resolve 'dns' in 'C:\RAGEMP\server-files\node_modules\tedious\lib'
+ @ C:/RAGEMP/server-files/node_modules/tedious/lib/sender.js 14:10-24
+ @ C:/RAGEMP/server-files/node_modules/tedious/lib/instance-lookup.js
+ @ C:/RAGEMP/server-files/node_modules/tedious/lib/connection.js
+ @ C:/RAGEMP/server-files/node_modules/tedious/lib/tedious.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/lib/dialects/mssql/connection-manager.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/lib/dialects/mssql/index.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/lib/sequelize.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/index.js
+ @ ./index.js
+
+ERROR in C:/RAGEMP/server-files/node_modules/tedious/lib/connector.js
+Module not found: Error: Can't resolve 'dns' in 'C:\RAGEMP\server-files\node_modules\tedious\lib'
+ @ C:/RAGEMP/server-files/node_modules/tedious/lib/connector.js 18:10-24
+ @ C:/RAGEMP/server-files/node_modules/tedious/lib/connection.js
+ @ C:/RAGEMP/server-files/node_modules/tedious/lib/tedious.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/lib/dialects/mssql/connection-manager.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/lib/dialects/mssql/index.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/lib/sequelize.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/index.js
+ @ ./index.js
+
+ERROR in C:/RAGEMP/server-files/node_modules/cardinal/lib/highlightFileSync.js
+Module not found: Error: Can't resolve 'fs' in 'C:\RAGEMP\server-files\node_modules\cardinal\lib'
+ @ C:/RAGEMP/server-files/node_modules/cardinal/lib/highlightFileSync.js 1:9-22
+ @ C:/RAGEMP/server-files/node_modules/cardinal/cardinal.js
+ @ C:/RAGEMP/server-files/node_modules/mysql2/lib/parsers/text_parser.js
+ @ C:/RAGEMP/server-files/node_modules/mysql2/lib/commands/query.js
+ @ C:/RAGEMP/server-files/node_modules/mysql2/lib/commands ^\.\/.*\.js$
+ @ C:/RAGEMP/server-files/node_modules/mysql2/lib/commands/index.js
+ @ C:/RAGEMP/server-files/node_modules/mysql2/lib/connection.js
+ @ C:/RAGEMP/server-files/node_modules/mysql2/index.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/lib/dialects/mysql/connection-manager.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/lib/dialects/mysql/index.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/lib/sequelize.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/index.js
+ @ ./index.js
+
+ERROR in C:/RAGEMP/server-files/node_modules/cardinal/lib/highlightFile.js
+Module not found: Error: Can't resolve 'fs' in 'C:\RAGEMP\server-files\node_modules\cardinal\lib'
+ @ C:/RAGEMP/server-files/node_modules/cardinal/lib/highlightFile.js 1:9-22
+ @ C:/RAGEMP/server-files/node_modules/cardinal/cardinal.js
+ @ C:/RAGEMP/server-files/node_modules/mysql2/lib/parsers/text_parser.js
+ @ C:/RAGEMP/server-files/node_modules/mysql2/lib/commands/query.js
+ @ C:/RAGEMP/server-files/node_modules/mysql2/lib/commands ^\.\/.*\.js$
+ @ C:/RAGEMP/server-files/node_modules/mysql2/lib/commands/index.js
+ @ C:/RAGEMP/server-files/node_modules/mysql2/lib/connection.js
+ @ C:/RAGEMP/server-files/node_modules/mysql2/index.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/lib/dialects/mysql/connection-manager.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/lib/dialects/mysql/index.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/lib/sequelize.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/index.js
+ @ ./index.js
+
+ERROR in C:/RAGEMP/server-files/node_modules/mysql2/lib/commands/query.js
+Module not found: Error: Can't resolve 'fs' in 'C:\RAGEMP\server-files\node_modules\mysql2\lib\commands'
+ @ C:/RAGEMP/server-files/node_modules/mysql2/lib/commands/query.js 1:9-22
+ @ C:/RAGEMP/server-files/node_modules/mysql2/lib/commands ^\.\/.*\.js$
+ @ C:/RAGEMP/server-files/node_modules/mysql2/lib/commands/index.js
+ @ C:/RAGEMP/server-files/node_modules/mysql2/lib/connection.js
+ @ C:/RAGEMP/server-files/node_modules/mysql2/index.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/lib/dialects/mysql/connection-manager.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/lib/dialects/mysql/index.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/lib/sequelize.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/index.js
+ @ ./index.js
+
+ERROR in C:/RAGEMP/server-files/node_modules/pgpass/lib/index.js
+Module not found: Error: Can't resolve 'fs' in 'C:\RAGEMP\server-files\node_modules\pgpass\lib'
+ @ C:/RAGEMP/server-files/node_modules/pgpass/lib/index.js 4:9-22
+ @ C:/RAGEMP/server-files/node_modules/pg/lib/client.js
+ @ C:/RAGEMP/server-files/node_modules/pg/lib/index.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/lib/dialects/postgres/connection-manager.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/lib/dialects/postgres/index.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/lib/sequelize.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/index.js
+ @ ./index.js
+
+ERROR in C:/RAGEMP/server-files/node_modules/sqlite3/node_modules/chownr/chownr.js
+Module not found: Error: Can't resolve 'fs' in 'C:\RAGEMP\server-files\node_modules\sqlite3\node_modules\chownr'
+ @ C:/RAGEMP/server-files/node_modules/sqlite3/node_modules/chownr/chownr.js 4:9-22
+ @ C:/RAGEMP/server-files/node_modules/sqlite3/node_modules/tar/lib/mkdir.js
+ @ C:/RAGEMP/server-files/node_modules/sqlite3/node_modules/tar/lib/unpack.js
+ @ C:/RAGEMP/server-files/node_modules/sqlite3/node_modules/tar/index.js
+ @ C:/RAGEMP/server-files/node_modules/sqlite3/node_modules/node-pre-gyp/lib/testpackage.js
+ @ C:/RAGEMP/server-files/node_modules/sqlite3/node_modules/node-pre-gyp/lib ^\.\/.*$
+ @ C:/RAGEMP/server-files/node_modules/sqlite3/node_modules/node-pre-gyp/lib/node-pre-gyp.js
+ @ C:/RAGEMP/server-files/node_modules/sqlite3/lib/sqlite3.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/lib/dialects/sqlite/connection-manager.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/lib/dialects/sqlite/index.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/lib/sequelize.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/index.js
+ @ ./index.js
+
+ERROR in C:/RAGEMP/server-files/node_modules/sqlite3/node_modules/detect-libc/lib/detect-libc.js
+Module not found: Error: Can't resolve 'fs' in 'C:\RAGEMP\server-files\node_modules\sqlite3\node_modules\detect-libc\lib'
+ @ C:/RAGEMP/server-files/node_modules/sqlite3/node_modules/detect-libc/lib/detect-libc.js 5:18-31
+ @ C:/RAGEMP/server-files/node_modules/sqlite3/node_modules/node-pre-gyp/lib/util/versioning.js
+ @ C:/RAGEMP/server-files/node_modules/sqlite3/node_modules/node-pre-gyp/lib ^\.\/.*$
+ @ C:/RAGEMP/server-files/node_modules/sqlite3/node_modules/node-pre-gyp/lib/node-pre-gyp.js
+ @ C:/RAGEMP/server-files/node_modules/sqlite3/lib/sqlite3.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/lib/dialects/sqlite/connection-manager.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/lib/dialects/sqlite/index.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/lib/sequelize.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/index.js
+ @ ./index.js
+
+ERROR in C:/RAGEMP/server-files/node_modules/sqlite3/node_modules/fs-minipass/index.js
+Module not found: Error: Can't resolve 'fs' in 'C:\RAGEMP\server-files\node_modules\sqlite3\node_modules\fs-minipass'
+ @ C:/RAGEMP/server-files/node_modules/sqlite3/node_modules/fs-minipass/index.js 4:11-24
+ @ C:/RAGEMP/server-files/node_modules/sqlite3/node_modules/tar/lib/extract.js
+ @ C:/RAGEMP/server-files/node_modules/sqlite3/node_modules/tar/index.js
+ @ C:/RAGEMP/server-files/node_modules/sqlite3/node_modules/node-pre-gyp/lib/testpackage.js
+ @ C:/RAGEMP/server-files/node_modules/sqlite3/node_modules/node-pre-gyp/lib ^\.\/.*$
+ @ C:/RAGEMP/server-files/node_modules/sqlite3/node_modules/node-pre-gyp/lib/node-pre-gyp.js
+ @ C:/RAGEMP/server-files/node_modules/sqlite3/lib/sqlite3.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/lib/dialects/sqlite/connection-manager.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/lib/dialects/sqlite/index.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/lib/sequelize.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/index.js
+ @ ./index.js
+
+ERROR in C:/RAGEMP/server-files/node_modules/sqlite3/node_modules/fs.realpath/index.js
+Module not found: Error: Can't resolve 'fs' in 'C:\RAGEMP\server-files\node_modules\sqlite3\node_modules\fs.realpath'
+ @ C:/RAGEMP/server-files/node_modules/sqlite3/node_modules/fs.realpath/index.js 8:9-22
+ @ C:/RAGEMP/server-files/node_modules/sqlite3/node_modules/glob/glob.js
+ @ C:/RAGEMP/server-files/node_modules/sqlite3/node_modules/rimraf/rimraf.js
+ @ C:/RAGEMP/server-files/node_modules/sqlite3/node_modules/node-pre-gyp/lib/util/napi.js
+ @ C:/RAGEMP/server-files/node_modules/sqlite3/node_modules/node-pre-gyp/lib/node-pre-gyp.js
+ @ C:/RAGEMP/server-files/node_modules/sqlite3/lib/sqlite3.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/lib/dialects/sqlite/connection-manager.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/lib/dialects/sqlite/index.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/lib/sequelize.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/index.js
+ @ ./index.js
+
+ERROR in C:/RAGEMP/server-files/node_modules/sqlite3/node_modules/fs.realpath/old.js
+Module not found: Error: Can't resolve 'fs' in 'C:\RAGEMP\server-files\node_modules\sqlite3\node_modules\fs.realpath'
+ @ C:/RAGEMP/server-files/node_modules/sqlite3/node_modules/fs.realpath/old.js 24:9-22
+ @ C:/RAGEMP/server-files/node_modules/sqlite3/node_modules/fs.realpath/index.js
+ @ C:/RAGEMP/server-files/node_modules/sqlite3/node_modules/glob/glob.js
+ @ C:/RAGEMP/server-files/node_modules/sqlite3/node_modules/rimraf/rimraf.js
+ @ C:/RAGEMP/server-files/node_modules/sqlite3/node_modules/node-pre-gyp/lib/util/napi.js
+ @ C:/RAGEMP/server-files/node_modules/sqlite3/node_modules/node-pre-gyp/lib/node-pre-gyp.js
+ @ C:/RAGEMP/server-files/node_modules/sqlite3/lib/sqlite3.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/lib/dialects/sqlite/connection-manager.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/lib/dialects/sqlite/index.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/lib/sequelize.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/index.js
+ @ ./index.js
+
+ERROR in C:/RAGEMP/server-files/node_modules/sqlite3/node_modules/glob/glob.js
+Module not found: Error: Can't resolve 'fs' in 'C:\RAGEMP\server-files\node_modules\sqlite3\node_modules\glob'
+ @ C:/RAGEMP/server-files/node_modules/sqlite3/node_modules/glob/glob.js 43:9-22
+ @ C:/RAGEMP/server-files/node_modules/sqlite3/node_modules/rimraf/rimraf.js
+ @ C:/RAGEMP/server-files/node_modules/sqlite3/node_modules/node-pre-gyp/lib/util/napi.js
+ @ C:/RAGEMP/server-files/node_modules/sqlite3/node_modules/node-pre-gyp/lib/node-pre-gyp.js
+ @ C:/RAGEMP/server-files/node_modules/sqlite3/lib/sqlite3.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/lib/dialects/sqlite/connection-manager.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/lib/dialects/sqlite/index.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/lib/sequelize.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/index.js
+ @ ./index.js
+
+ERROR in C:/RAGEMP/server-files/node_modules/sqlite3/node_modules/glob/sync.js
+Module not found: Error: Can't resolve 'fs' in 'C:\RAGEMP\server-files\node_modules\sqlite3\node_modules\glob'
+ @ C:/RAGEMP/server-files/node_modules/sqlite3/node_modules/glob/sync.js 4:9-22
+ @ C:/RAGEMP/server-files/node_modules/sqlite3/node_modules/glob/glob.js
+ @ C:/RAGEMP/server-files/node_modules/sqlite3/node_modules/rimraf/rimraf.js
+ @ C:/RAGEMP/server-files/node_modules/sqlite3/node_modules/node-pre-gyp/lib/util/napi.js
+ @ C:/RAGEMP/server-files/node_modules/sqlite3/node_modules/node-pre-gyp/lib/node-pre-gyp.js
+ @ C:/RAGEMP/server-files/node_modules/sqlite3/lib/sqlite3.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/lib/dialects/sqlite/connection-manager.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/lib/dialects/sqlite/index.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/lib/sequelize.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/index.js
+ @ ./index.js
+
+ERROR in C:/RAGEMP/server-files/node_modules/sqlite3/node_modules/ignore-walk/index.js
+Module not found: Error: Can't resolve 'fs' in 'C:\RAGEMP\server-files\node_modules\sqlite3\node_modules\ignore-walk'
+ @ C:/RAGEMP/server-files/node_modules/sqlite3/node_modules/ignore-walk/index.js 3:11-24
+ @ C:/RAGEMP/server-files/node_modules/sqlite3/node_modules/npm-packlist/index.js
+ @ C:/RAGEMP/server-files/node_modules/sqlite3/node_modules/node-pre-gyp/lib/package.js
+ @ C:/RAGEMP/server-files/node_modules/sqlite3/node_modules/node-pre-gyp/lib ^\.\/.*$
+ @ C:/RAGEMP/server-files/node_modules/sqlite3/node_modules/node-pre-gyp/lib/node-pre-gyp.js
+ @ C:/RAGEMP/server-files/node_modules/sqlite3/lib/sqlite3.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/lib/dialects/sqlite/connection-manager.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/lib/dialects/sqlite/index.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/lib/sequelize.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/index.js
+ @ ./index.js
+
+ERROR in C:/RAGEMP/server-files/node_modules/sqlite3/node_modules/mkdirp/index.js
+Module not found: Error: Can't resolve 'fs' in 'C:\RAGEMP\server-files\node_modules\sqlite3\node_modules\mkdirp'
+ @ C:/RAGEMP/server-files/node_modules/sqlite3/node_modules/mkdirp/index.js 2:9-22
+ @ C:/RAGEMP/server-files/node_modules/sqlite3/node_modules/node-pre-gyp/lib/testpackage.js
+ @ C:/RAGEMP/server-files/node_modules/sqlite3/node_modules/node-pre-gyp/lib ^\.\/.*$
+ @ C:/RAGEMP/server-files/node_modules/sqlite3/node_modules/node-pre-gyp/lib/node-pre-gyp.js
+ @ C:/RAGEMP/server-files/node_modules/sqlite3/lib/sqlite3.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/lib/dialects/sqlite/connection-manager.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/lib/dialects/sqlite/index.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/lib/sequelize.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/index.js
+ @ ./index.js
+
+ERROR in C:/RAGEMP/server-files/node_modules/sqlite3/node_modules/needle/lib/multipart.js
+Module not found: Error: Can't resolve 'fs' in 'C:\RAGEMP\server-files\node_modules\sqlite3\node_modules\needle\lib'
+ @ C:/RAGEMP/server-files/node_modules/sqlite3/node_modules/needle/lib/multipart.js 1:15-28
+ @ C:/RAGEMP/server-files/node_modules/sqlite3/node_modules/needle/lib/needle.js
+ @ C:/RAGEMP/server-files/node_modules/sqlite3/node_modules/node-pre-gyp/lib/install.js
+ @ C:/RAGEMP/server-files/node_modules/sqlite3/node_modules/node-pre-gyp/lib ^\.\/.*$
+ @ C:/RAGEMP/server-files/node_modules/sqlite3/node_modules/node-pre-gyp/lib/node-pre-gyp.js
+ @ C:/RAGEMP/server-files/node_modules/sqlite3/lib/sqlite3.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/lib/dialects/sqlite/connection-manager.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/lib/dialects/sqlite/index.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/lib/sequelize.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/index.js
+ @ ./index.js
+
+ERROR in C:/RAGEMP/server-files/node_modules/sqlite3/node_modules/needle/lib/needle.js
+Module not found: Error: Can't resolve 'fs' in 'C:\RAGEMP\server-files\node_modules\sqlite3\node_modules\needle\lib'
+ @ C:/RAGEMP/server-files/node_modules/sqlite3/node_modules/needle/lib/needle.js 8:18-31
+ @ C:/RAGEMP/server-files/node_modules/sqlite3/node_modules/node-pre-gyp/lib/install.js
+ @ C:/RAGEMP/server-files/node_modules/sqlite3/node_modules/node-pre-gyp/lib ^\.\/.*$
+ @ C:/RAGEMP/server-files/node_modules/sqlite3/node_modules/node-pre-gyp/lib/node-pre-gyp.js
+ @ C:/RAGEMP/server-files/node_modules/sqlite3/lib/sqlite3.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/lib/dialects/sqlite/connection-manager.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/lib/dialects/sqlite/index.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/lib/sequelize.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/index.js
+ @ ./index.js
+
+ERROR in C:/RAGEMP/server-files/node_modules/sqlite3/node_modules/node-pre-gyp/lib/info.js
+Module not found: Error: Can't resolve 'fs' in 'C:\RAGEMP\server-files\node_modules\sqlite3\node_modules\node-pre-gyp\lib'
+ @ C:/RAGEMP/server-files/node_modules/sqlite3/node_modules/node-pre-gyp/lib/info.js 7:9-22
+ @ C:/RAGEMP/server-files/node_modules/sqlite3/node_modules/node-pre-gyp/lib ^\.\/.*$
+ @ C:/RAGEMP/server-files/node_modules/sqlite3/node_modules/node-pre-gyp/lib/node-pre-gyp.js
+ @ C:/RAGEMP/server-files/node_modules/sqlite3/lib/sqlite3.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/lib/dialects/sqlite/connection-manager.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/lib/dialects/sqlite/index.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/lib/sequelize.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/index.js
+ @ ./index.js
+
+ERROR in C:/RAGEMP/server-files/node_modules/sqlite3/node_modules/node-pre-gyp/lib/unpublish.js
+Module not found: Error: Can't resolve 'fs' in 'C:\RAGEMP\server-files\node_modules\sqlite3\node_modules\node-pre-gyp\lib'
+ @ C:/RAGEMP/server-files/node_modules/sqlite3/node_modules/node-pre-gyp/lib/unpublish.js 7:9-22
+ @ C:/RAGEMP/server-files/node_modules/sqlite3/node_modules/node-pre-gyp/lib ^\.\/.*$
+ @ C:/RAGEMP/server-files/node_modules/sqlite3/node_modules/node-pre-gyp/lib/node-pre-gyp.js
+ @ C:/RAGEMP/server-files/node_modules/sqlite3/lib/sqlite3.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/lib/dialects/sqlite/connection-manager.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/lib/dialects/sqlite/index.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/lib/sequelize.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/index.js
+ @ ./index.js
+
+ERROR in C:/RAGEMP/server-files/node_modules/sqlite3/node_modules/node-pre-gyp/lib/testpackage.js
+Module not found: Error: Can't resolve 'fs' in 'C:\RAGEMP\server-files\node_modules\sqlite3\node_modules\node-pre-gyp\lib'
+ @ C:/RAGEMP/server-files/node_modules/sqlite3/node_modules/node-pre-gyp/lib/testpackage.js 7:9-22
+ @ C:/RAGEMP/server-files/node_modules/sqlite3/node_modules/node-pre-gyp/lib ^\.\/.*$
+ @ C:/RAGEMP/server-files/node_modules/sqlite3/node_modules/node-pre-gyp/lib/node-pre-gyp.js
+ @ C:/RAGEMP/server-files/node_modules/sqlite3/lib/sqlite3.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/lib/dialects/sqlite/connection-manager.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/lib/dialects/sqlite/index.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/lib/sequelize.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/index.js
+ @ ./index.js
+
+ERROR in C:/RAGEMP/server-files/node_modules/sqlite3/node_modules/node-pre-gyp/lib/node-pre-gyp.js
+Module not found: Error: Can't resolve 'fs' in 'C:\RAGEMP\server-files\node_modules\sqlite3\node_modules\node-pre-gyp\lib'
+ @ C:/RAGEMP/server-files/node_modules/sqlite3/node_modules/node-pre-gyp/lib/node-pre-gyp.js 13:9-22
+ @ C:/RAGEMP/server-files/node_modules/sqlite3/lib/sqlite3.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/lib/dialects/sqlite/connection-manager.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/lib/dialects/sqlite/index.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/lib/sequelize.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/index.js
+ @ ./index.js
+
+ERROR in C:/RAGEMP/server-files/node_modules/sqlite3/node_modules/node-pre-gyp/lib/reinstall.js
+Module not found: Error: Can't resolve 'fs' in 'C:\RAGEMP\server-files\node_modules\sqlite3\node_modules\node-pre-gyp\lib'
+ @ C:/RAGEMP/server-files/node_modules/sqlite3/node_modules/node-pre-gyp/lib/reinstall.js 7:9-22
+ @ C:/RAGEMP/server-files/node_modules/sqlite3/node_modules/node-pre-gyp/lib ^\.\/.*$
+ @ C:/RAGEMP/server-files/node_modules/sqlite3/node_modules/node-pre-gyp/lib/node-pre-gyp.js
+ @ C:/RAGEMP/server-files/node_modules/sqlite3/lib/sqlite3.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/lib/dialects/sqlite/connection-manager.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/lib/dialects/sqlite/index.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/lib/sequelize.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/index.js
+ @ ./index.js
+
+ERROR in C:/RAGEMP/server-files/node_modules/sqlite3/node_modules/node-pre-gyp/lib/clean.js
+Module not found: Error: Can't resolve 'fs' in 'C:\RAGEMP\server-files\node_modules\sqlite3\node_modules\node-pre-gyp\lib'
+ @ C:/RAGEMP/server-files/node_modules/sqlite3/node_modules/node-pre-gyp/lib/clean.js 7:9-22 9:13-26
+ @ C:/RAGEMP/server-files/node_modules/sqlite3/node_modules/node-pre-gyp/lib ^\.\/.*$
+ @ C:/RAGEMP/server-files/node_modules/sqlite3/node_modules/node-pre-gyp/lib/node-pre-gyp.js
+ @ C:/RAGEMP/server-files/node_modules/sqlite3/lib/sqlite3.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/lib/dialects/sqlite/connection-manager.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/lib/dialects/sqlite/index.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/lib/sequelize.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/index.js
+ @ ./index.js
+
+ERROR in C:/RAGEMP/server-files/node_modules/sqlite3/node_modules/node-pre-gyp/lib/reveal.js
+Module not found: Error: Can't resolve 'fs' in 'C:\RAGEMP\server-files\node_modules\sqlite3\node_modules\node-pre-gyp\lib'
+ @ C:/RAGEMP/server-files/node_modules/sqlite3/node_modules/node-pre-gyp/lib/reveal.js 7:9-22
+ @ C:/RAGEMP/server-files/node_modules/sqlite3/node_modules/node-pre-gyp/lib ^\.\/.*$
+ @ C:/RAGEMP/server-files/node_modules/sqlite3/node_modules/node-pre-gyp/lib/node-pre-gyp.js
+ @ C:/RAGEMP/server-files/node_modules/sqlite3/lib/sqlite3.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/lib/dialects/sqlite/connection-manager.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/lib/dialects/sqlite/index.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/lib/sequelize.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/index.js
+ @ ./index.js
+
+ERROR in C:/RAGEMP/server-files/node_modules/sqlite3/node_modules/node-pre-gyp/lib/rebuild.js
+Module not found: Error: Can't resolve 'fs' in 'C:\RAGEMP\server-files\node_modules\sqlite3\node_modules\node-pre-gyp\lib'
+ @ C:/RAGEMP/server-files/node_modules/sqlite3/node_modules/node-pre-gyp/lib/rebuild.js 7:9-22
+ @ C:/RAGEMP/server-files/node_modules/sqlite3/node_modules/node-pre-gyp/lib ^\.\/.*$
+ @ C:/RAGEMP/server-files/node_modules/sqlite3/node_modules/node-pre-gyp/lib/node-pre-gyp.js
+ @ C:/RAGEMP/server-files/node_modules/sqlite3/lib/sqlite3.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/lib/dialects/sqlite/connection-manager.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/lib/dialects/sqlite/index.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/lib/sequelize.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/index.js
+ @ ./index.js
+
+ERROR in C:/RAGEMP/server-files/node_modules/sqlite3/node_modules/node-pre-gyp/lib/install.js
+Module not found: Error: Can't resolve 'fs' in 'C:\RAGEMP\server-files\node_modules\sqlite3\node_modules\node-pre-gyp\lib'
+ @ C:/RAGEMP/server-files/node_modules/sqlite3/node_modules/node-pre-gyp/lib/install.js 7:9-22
+ @ C:/RAGEMP/server-files/node_modules/sqlite3/node_modules/node-pre-gyp/lib ^\.\/.*$
+ @ C:/RAGEMP/server-files/node_modules/sqlite3/node_modules/node-pre-gyp/lib/node-pre-gyp.js
+ @ C:/RAGEMP/server-files/node_modules/sqlite3/lib/sqlite3.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/lib/dialects/sqlite/connection-manager.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/lib/dialects/sqlite/index.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/lib/sequelize.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/index.js
+ @ ./index.js
+
+ERROR in C:/RAGEMP/server-files/node_modules/sqlite3/node_modules/node-pre-gyp/lib/package.js
+Module not found: Error: Can't resolve 'fs' in 'C:\RAGEMP\server-files\node_modules\sqlite3\node_modules\node-pre-gyp\lib'
+ @ C:/RAGEMP/server-files/node_modules/sqlite3/node_modules/node-pre-gyp/lib/package.js 7:9-22 12:12-25
+ @ C:/RAGEMP/server-files/node_modules/sqlite3/node_modules/node-pre-gyp/lib ^\.\/.*$
+ @ C:/RAGEMP/server-files/node_modules/sqlite3/node_modules/node-pre-gyp/lib/node-pre-gyp.js
+ @ C:/RAGEMP/server-files/node_modules/sqlite3/lib/sqlite3.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/lib/dialects/sqlite/connection-manager.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/lib/dialects/sqlite/index.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/lib/sequelize.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/index.js
+ @ ./index.js
+
+ERROR in C:/RAGEMP/server-files/node_modules/sqlite3/node_modules/node-pre-gyp/lib/testbinary.js
+Module not found: Error: Can't resolve 'fs' in 'C:\RAGEMP\server-files\node_modules\sqlite3\node_modules\node-pre-gyp\lib'
+ @ C:/RAGEMP/server-files/node_modules/sqlite3/node_modules/node-pre-gyp/lib/testbinary.js 7:9-22
+ @ C:/RAGEMP/server-files/node_modules/sqlite3/node_modules/node-pre-gyp/lib ^\.\/.*$
+ @ C:/RAGEMP/server-files/node_modules/sqlite3/node_modules/node-pre-gyp/lib/node-pre-gyp.js
+ @ C:/RAGEMP/server-files/node_modules/sqlite3/lib/sqlite3.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/lib/dialects/sqlite/connection-manager.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/lib/dialects/sqlite/index.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/lib/sequelize.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/index.js
+ @ ./index.js
+
+ERROR in C:/RAGEMP/server-files/node_modules/sqlite3/node_modules/node-pre-gyp/lib/publish.js
+Module not found: Error: Can't resolve 'fs' in 'C:\RAGEMP\server-files\node_modules\sqlite3\node_modules\node-pre-gyp\lib'
+ @ C:/RAGEMP/server-files/node_modules/sqlite3/node_modules/node-pre-gyp/lib/publish.js 7:9-22
+ @ C:/RAGEMP/server-files/node_modules/sqlite3/node_modules/node-pre-gyp/lib ^\.\/.*$
+ @ C:/RAGEMP/server-files/node_modules/sqlite3/node_modules/node-pre-gyp/lib/node-pre-gyp.js
+ @ C:/RAGEMP/server-files/node_modules/sqlite3/lib/sqlite3.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/lib/dialects/sqlite/connection-manager.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/lib/dialects/sqlite/index.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/lib/sequelize.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/index.js
+ @ ./index.js
+
+ERROR in C:/RAGEMP/server-files/node_modules/sqlite3/node_modules/node-pre-gyp/lib/pre-binding.js
+Module not found: Error: Can't resolve 'fs' in 'C:\RAGEMP\server-files\node_modules\sqlite3\node_modules\node-pre-gyp\lib'
+ @ C:/RAGEMP/server-files/node_modules/sqlite3/node_modules/node-pre-gyp/lib/pre-binding.js 5:17-30
+ @ C:/RAGEMP/server-files/node_modules/sqlite3/node_modules/node-pre-gyp/lib/node-pre-gyp.js
+ @ C:/RAGEMP/server-files/node_modules/sqlite3/lib/sqlite3.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/lib/dialects/sqlite/connection-manager.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/lib/dialects/sqlite/index.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/lib/sequelize.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/index.js
+ @ ./index.js
+
+ERROR in C:/RAGEMP/server-files/node_modules/sqlite3/node_modules/node-pre-gyp/lib/util/compile.js
+Module not found: Error: Can't resolve 'fs' in 'C:\RAGEMP\server-files\node_modules\sqlite3\node_modules\node-pre-gyp\lib\util'
+ @ C:/RAGEMP/server-files/node_modules/sqlite3/node_modules/node-pre-gyp/lib/util/compile.js 5:9-22
+ @ C:/RAGEMP/server-files/node_modules/sqlite3/node_modules/node-pre-gyp/lib ^\.\/.*$
+ @ C:/RAGEMP/server-files/node_modules/sqlite3/node_modules/node-pre-gyp/lib/node-pre-gyp.js
+ @ C:/RAGEMP/server-files/node_modules/sqlite3/lib/sqlite3.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/lib/dialects/sqlite/connection-manager.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/lib/dialects/sqlite/index.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/lib/sequelize.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/index.js
+ @ ./index.js
+
+ERROR in C:/RAGEMP/server-files/node_modules/sqlite3/node_modules/node-pre-gyp/lib/util/handle_gyp_opts.js
+Module not found: Error: Can't resolve 'fs' in 'C:\RAGEMP\server-files\node_modules\sqlite3\node_modules\node-pre-gyp\lib\util'
+ @ C:/RAGEMP/server-files/node_modules/sqlite3/node_modules/node-pre-gyp/lib/util/handle_gyp_opts.js 5:9-22
+ @ C:/RAGEMP/server-files/node_modules/sqlite3/node_modules/node-pre-gyp/lib ^\.\/.*$
+ @ C:/RAGEMP/server-files/node_modules/sqlite3/node_modules/node-pre-gyp/lib/node-pre-gyp.js
+ @ C:/RAGEMP/server-files/node_modules/sqlite3/lib/sqlite3.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/lib/dialects/sqlite/connection-manager.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/lib/dialects/sqlite/index.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/lib/sequelize.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/index.js
+ @ ./index.js
+
+ERROR in C:/RAGEMP/server-files/node_modules/sqlite3/node_modules/node-pre-gyp/lib/util/napi.js
+Module not found: Error: Can't resolve 'fs' in 'C:\RAGEMP\server-files\node_modules\sqlite3\node_modules\node-pre-gyp\lib\util'
+ @ C:/RAGEMP/server-files/node_modules/sqlite3/node_modules/node-pre-gyp/lib/util/napi.js 3:9-22
+ @ C:/RAGEMP/server-files/node_modules/sqlite3/node_modules/node-pre-gyp/lib/node-pre-gyp.js
+ @ C:/RAGEMP/server-files/node_modules/sqlite3/lib/sqlite3.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/lib/dialects/sqlite/connection-manager.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/lib/dialects/sqlite/index.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/lib/sequelize.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/index.js
+ @ ./index.js
+
+ERROR in C:/RAGEMP/server-files/node_modules/sqlite3/node_modules/npm-bundled/index.js
+Module not found: Error: Can't resolve 'fs' in 'C:\RAGEMP\server-files\node_modules\sqlite3\node_modules\npm-bundled'
+ @ C:/RAGEMP/server-files/node_modules/sqlite3/node_modules/npm-bundled/index.js 10:11-24
+ @ C:/RAGEMP/server-files/node_modules/sqlite3/node_modules/npm-packlist/index.js
+ @ C:/RAGEMP/server-files/node_modules/sqlite3/node_modules/node-pre-gyp/lib/package.js
+ @ C:/RAGEMP/server-files/node_modules/sqlite3/node_modules/node-pre-gyp/lib ^\.\/.*$
+ @ C:/RAGEMP/server-files/node_modules/sqlite3/node_modules/node-pre-gyp/lib/node-pre-gyp.js
+ @ C:/RAGEMP/server-files/node_modules/sqlite3/lib/sqlite3.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/lib/dialects/sqlite/connection-manager.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/lib/dialects/sqlite/index.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/lib/sequelize.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/index.js
+ @ ./index.js
+
+ERROR in C:/RAGEMP/server-files/node_modules/sqlite3/node_modules/rimraf/rimraf.js
+Module not found: Error: Can't resolve 'fs' in 'C:\RAGEMP\server-files\node_modules\sqlite3\node_modules\rimraf'
+ @ C:/RAGEMP/server-files/node_modules/sqlite3/node_modules/rimraf/rimraf.js 6:9-22
+ @ C:/RAGEMP/server-files/node_modules/sqlite3/node_modules/node-pre-gyp/lib/util/napi.js
+ @ C:/RAGEMP/server-files/node_modules/sqlite3/node_modules/node-pre-gyp/lib/node-pre-gyp.js
+ @ C:/RAGEMP/server-files/node_modules/sqlite3/lib/sqlite3.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/lib/dialects/sqlite/connection-manager.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/lib/dialects/sqlite/index.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/lib/sequelize.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/index.js
+ @ ./index.js
+
+ERROR in C:/RAGEMP/server-files/node_modules/sqlite3/node_modules/tar/lib/write-entry.js
+Module not found: Error: Can't resolve 'fs' in 'C:\RAGEMP\server-files\node_modules\sqlite3\node_modules\tar\lib'
+ @ C:/RAGEMP/server-files/node_modules/sqlite3/node_modules/tar/lib/write-entry.js 6:11-24
+ @ C:/RAGEMP/server-files/node_modules/sqlite3/node_modules/tar/index.js
+ @ C:/RAGEMP/server-files/node_modules/sqlite3/node_modules/node-pre-gyp/lib/testpackage.js
+ @ C:/RAGEMP/server-files/node_modules/sqlite3/node_modules/node-pre-gyp/lib ^\.\/.*$
+ @ C:/RAGEMP/server-files/node_modules/sqlite3/node_modules/node-pre-gyp/lib/node-pre-gyp.js
+ @ C:/RAGEMP/server-files/node_modules/sqlite3/lib/sqlite3.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/lib/dialects/sqlite/connection-manager.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/lib/dialects/sqlite/index.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/lib/sequelize.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/index.js
+ @ ./index.js
+
+ERROR in C:/RAGEMP/server-files/node_modules/sqlite3/node_modules/tar/lib/replace.js
+Module not found: Error: Can't resolve 'fs' in 'C:\RAGEMP\server-files\node_modules\sqlite3\node_modules\tar\lib'
+ @ C:/RAGEMP/server-files/node_modules/sqlite3/node_modules/tar/lib/replace.js 7:11-24
+ @ C:/RAGEMP/server-files/node_modules/sqlite3/node_modules/tar/index.js
+ @ C:/RAGEMP/server-files/node_modules/sqlite3/node_modules/node-pre-gyp/lib/testpackage.js
+ @ C:/RAGEMP/server-files/node_modules/sqlite3/node_modules/node-pre-gyp/lib ^\.\/.*$
+ @ C:/RAGEMP/server-files/node_modules/sqlite3/node_modules/node-pre-gyp/lib/node-pre-gyp.js
+ @ C:/RAGEMP/server-files/node_modules/sqlite3/lib/sqlite3.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/lib/dialects/sqlite/connection-manager.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/lib/dialects/sqlite/index.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/lib/sequelize.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/index.js
+ @ ./index.js
+
+ERROR in C:/RAGEMP/server-files/node_modules/sqlite3/node_modules/tar/lib/list.js
+Module not found: Error: Can't resolve 'fs' in 'C:\RAGEMP\server-files\node_modules\sqlite3\node_modules\tar\lib'
+ @ C:/RAGEMP/server-files/node_modules/sqlite3/node_modules/tar/lib/list.js 9:11-24
+ @ C:/RAGEMP/server-files/node_modules/sqlite3/node_modules/tar/index.js
+ @ C:/RAGEMP/server-files/node_modules/sqlite3/node_modules/node-pre-gyp/lib/testpackage.js
+ @ C:/RAGEMP/server-files/node_modules/sqlite3/node_modules/node-pre-gyp/lib ^\.\/.*$
+ @ C:/RAGEMP/server-files/node_modules/sqlite3/node_modules/node-pre-gyp/lib/node-pre-gyp.js
+ @ C:/RAGEMP/server-files/node_modules/sqlite3/lib/sqlite3.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/lib/dialects/sqlite/connection-manager.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/lib/dialects/sqlite/index.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/lib/sequelize.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/index.js
+ @ ./index.js
+
+ERROR in C:/RAGEMP/server-files/node_modules/sqlite3/node_modules/tar/lib/extract.js
+Module not found: Error: Can't resolve 'fs' in 'C:\RAGEMP\server-files\node_modules\sqlite3\node_modules\tar\lib'
+ @ C:/RAGEMP/server-files/node_modules/sqlite3/node_modules/tar/lib/extract.js 6:11-24
+ @ C:/RAGEMP/server-files/node_modules/sqlite3/node_modules/tar/index.js
+ @ C:/RAGEMP/server-files/node_modules/sqlite3/node_modules/node-pre-gyp/lib/testpackage.js
+ @ C:/RAGEMP/server-files/node_modules/sqlite3/node_modules/node-pre-gyp/lib ^\.\/.*$
+ @ C:/RAGEMP/server-files/node_modules/sqlite3/node_modules/node-pre-gyp/lib/node-pre-gyp.js
+ @ C:/RAGEMP/server-files/node_modules/sqlite3/lib/sqlite3.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/lib/dialects/sqlite/connection-manager.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/lib/dialects/sqlite/index.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/lib/sequelize.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/index.js
+ @ ./index.js
+
+ERROR in C:/RAGEMP/server-files/node_modules/sqlite3/node_modules/tar/lib/unpack.js
+Module not found: Error: Can't resolve 'fs' in 'C:\RAGEMP\server-files\node_modules\sqlite3\node_modules\tar\lib'
+ @ C:/RAGEMP/server-files/node_modules/sqlite3/node_modules/tar/lib/unpack.js 6:11-24
+ @ C:/RAGEMP/server-files/node_modules/sqlite3/node_modules/tar/index.js
+ @ C:/RAGEMP/server-files/node_modules/sqlite3/node_modules/node-pre-gyp/lib/testpackage.js
+ @ C:/RAGEMP/server-files/node_modules/sqlite3/node_modules/node-pre-gyp/lib ^\.\/.*$
+ @ C:/RAGEMP/server-files/node_modules/sqlite3/node_modules/node-pre-gyp/lib/node-pre-gyp.js
+ @ C:/RAGEMP/server-files/node_modules/sqlite3/lib/sqlite3.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/lib/dialects/sqlite/connection-manager.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/lib/dialects/sqlite/index.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/lib/sequelize.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/index.js
+ @ ./index.js
+
+ERROR in C:/RAGEMP/server-files/node_modules/sqlite3/node_modules/tar/lib/pack.js
+Module not found: Error: Can't resolve 'fs' in 'C:\RAGEMP\server-files\node_modules\sqlite3\node_modules\tar\lib'
+ @ C:/RAGEMP/server-files/node_modules/sqlite3/node_modules/tar/lib/pack.js 54:11-24
+ @ C:/RAGEMP/server-files/node_modules/sqlite3/node_modules/tar/index.js
+ @ C:/RAGEMP/server-files/node_modules/sqlite3/node_modules/node-pre-gyp/lib/testpackage.js
+ @ C:/RAGEMP/server-files/node_modules/sqlite3/node_modules/node-pre-gyp/lib ^\.\/.*$
+ @ C:/RAGEMP/server-files/node_modules/sqlite3/node_modules/node-pre-gyp/lib/node-pre-gyp.js
+ @ C:/RAGEMP/server-files/node_modules/sqlite3/lib/sqlite3.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/lib/dialects/sqlite/connection-manager.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/lib/dialects/sqlite/index.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/lib/sequelize.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/index.js
+ @ ./index.js
+
+ERROR in C:/RAGEMP/server-files/node_modules/sqlite3/node_modules/tar/lib/create.js
+Module not found: Error: Can't resolve 'fs' in 'C:\RAGEMP\server-files\node_modules\sqlite3\node_modules\tar\lib'
+ @ C:/RAGEMP/server-files/node_modules/sqlite3/node_modules/tar/lib/create.js 7:11-24
+ @ C:/RAGEMP/server-files/node_modules/sqlite3/node_modules/tar/index.js
+ @ C:/RAGEMP/server-files/node_modules/sqlite3/node_modules/node-pre-gyp/lib/testpackage.js
+ @ C:/RAGEMP/server-files/node_modules/sqlite3/node_modules/node-pre-gyp/lib ^\.\/.*$
+ @ C:/RAGEMP/server-files/node_modules/sqlite3/node_modules/node-pre-gyp/lib/node-pre-gyp.js
+ @ C:/RAGEMP/server-files/node_modules/sqlite3/lib/sqlite3.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/lib/dialects/sqlite/connection-manager.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/lib/dialects/sqlite/index.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/lib/sequelize.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/index.js
+ @ ./index.js
+
+ERROR in C:/RAGEMP/server-files/node_modules/sqlite3/node_modules/tar/lib/mkdir.js
+Module not found: Error: Can't resolve 'fs' in 'C:\RAGEMP\server-files\node_modules\sqlite3\node_modules\tar\lib'
+ @ C:/RAGEMP/server-files/node_modules/sqlite3/node_modules/tar/lib/mkdir.js 8:11-24
+ @ C:/RAGEMP/server-files/node_modules/sqlite3/node_modules/tar/lib/unpack.js
+ @ C:/RAGEMP/server-files/node_modules/sqlite3/node_modules/tar/index.js
+ @ C:/RAGEMP/server-files/node_modules/sqlite3/node_modules/node-pre-gyp/lib/testpackage.js
+ @ C:/RAGEMP/server-files/node_modules/sqlite3/node_modules/node-pre-gyp/lib ^\.\/.*$
+ @ C:/RAGEMP/server-files/node_modules/sqlite3/node_modules/node-pre-gyp/lib/node-pre-gyp.js
+ @ C:/RAGEMP/server-files/node_modules/sqlite3/lib/sqlite3.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/lib/dialects/sqlite/connection-manager.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/lib/dialects/sqlite/index.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/lib/sequelize.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/index.js
+ @ ./index.js
+
+ERROR in C:/RAGEMP/server-files/node_modules/mysql2/lib/connection.js
+Module not found: Error: Can't resolve 'net' in 'C:\RAGEMP\server-files\node_modules\mysql2\lib'
+ @ C:/RAGEMP/server-files/node_modules/mysql2/lib/connection.js 1:10-24
+ @ C:/RAGEMP/server-files/node_modules/mysql2/index.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/lib/dialects/mysql/connection-manager.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/lib/dialects/mysql/index.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/lib/sequelize.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/index.js
+ @ ./index.js
+
+ERROR in C:/RAGEMP/server-files/node_modules/mysql2/lib/server.js
+Module not found: Error: Can't resolve 'net' in 'C:\RAGEMP\server-files\node_modules\mysql2\lib'
+ @ C:/RAGEMP/server-files/node_modules/mysql2/lib/server.js 1:10-24
+ @ C:/RAGEMP/server-files/node_modules/mysql2/index.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/lib/dialects/mysql/connection-manager.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/lib/dialects/mysql/index.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/lib/sequelize.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/index.js
+ @ ./index.js
+
+ERROR in C:/RAGEMP/server-files/node_modules/pg/lib/connection.js
+Module not found: Error: Can't resolve 'net' in 'C:\RAGEMP\server-files\node_modules\pg\lib'
+ @ C:/RAGEMP/server-files/node_modules/pg/lib/connection.js 10:10-24
+ @ C:/RAGEMP/server-files/node_modules/pg/lib/index.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/lib/dialects/postgres/connection-manager.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/lib/dialects/postgres/index.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/lib/sequelize.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/index.js
+ @ ./index.js
+
+ERROR in C:/RAGEMP/server-files/node_modules/tedious/lib/connector.js
+Module not found: Error: Can't resolve 'net' in 'C:\RAGEMP\server-files\node_modules\tedious\lib'
+ @ C:/RAGEMP/server-files/node_modules/tedious/lib/connector.js 17:10-24
+ @ C:/RAGEMP/server-files/node_modules/tedious/lib/connection.js
+ @ C:/RAGEMP/server-files/node_modules/tedious/lib/tedious.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/lib/dialects/mssql/connection-manager.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/lib/dialects/mssql/index.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/lib/sequelize.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/index.js
+ @ ./index.js
+
+ERROR in C:/RAGEMP/server-files/node_modules/tedious/lib/sender.js
+Module not found: Error: Can't resolve 'net' in 'C:\RAGEMP\server-files\node_modules\tedious\lib'
+ @ C:/RAGEMP/server-files/node_modules/tedious/lib/sender.js 15:10-24
+ @ C:/RAGEMP/server-files/node_modules/tedious/lib/instance-lookup.js
+ @ C:/RAGEMP/server-files/node_modules/tedious/lib/connection.js
+ @ C:/RAGEMP/server-files/node_modules/tedious/lib/tedious.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/lib/dialects/mssql/connection-manager.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/lib/dialects/mssql/index.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/lib/sequelize.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/index.js
+ @ ./index.js
+
+ERROR in C:/RAGEMP/server-files/node_modules/pg/lib/native/client.js
+Module not found: Error: Can't resolve 'pg-native' in 'C:\RAGEMP\server-files\node_modules\pg\lib\native'
+ @ C:/RAGEMP/server-files/node_modules/pg/lib/native/client.js 10:13-33
+ @ C:/RAGEMP/server-files/node_modules/pg/lib/native/index.js
+ @ C:/RAGEMP/server-files/node_modules/pg/lib/index.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/lib/dialects/postgres/connection-manager.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/lib/dialects/postgres/index.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/lib/sequelize.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/index.js
+ @ ./index.js
+
+ERROR in C:/RAGEMP/server-files/node_modules/mysql2/lib/connection.js
+Module not found: Error: Can't resolve 'tls' in 'C:\RAGEMP\server-files\node_modules\mysql2\lib'
+ @ C:/RAGEMP/server-files/node_modules/mysql2/lib/connection.js 3:10-24
+ @ C:/RAGEMP/server-files/node_modules/mysql2/index.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/lib/dialects/mysql/connection-manager.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/lib/dialects/mysql/index.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/lib/sequelize.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/index.js
+ @ ./index.js
+
+ERROR in C:/RAGEMP/server-files/node_modules/pg/lib/connection.js
+Module not found: Error: Can't resolve 'tls' in 'C:\RAGEMP\server-files\node_modules\pg\lib'
+ @ C:/RAGEMP/server-files/node_modules/pg/lib/connection.js 93:14-28
+ @ C:/RAGEMP/server-files/node_modules/pg/lib/index.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/lib/dialects/postgres/connection-manager.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/lib/dialects/postgres/index.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/lib/sequelize.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/index.js
+ @ ./index.js
+
+ERROR in C:/RAGEMP/server-files/node_modules/tedious/lib/message-io.js
+Module not found: Error: Can't resolve 'tls' in 'C:\RAGEMP\server-files\node_modules\tedious\lib'
+ @ C:/RAGEMP/server-files/node_modules/tedious/lib/message-io.js 25:10-24
+ @ C:/RAGEMP/server-files/node_modules/tedious/lib/connection.js
+ @ C:/RAGEMP/server-files/node_modules/tedious/lib/tedious.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/lib/dialects/mssql/connection-manager.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/lib/dialects/mssql/index.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/lib/sequelize.js
+ @ C:/RAGEMP/server-files/node_modules/sequelize/index.js
+ @ ./index.js
+
+ERROR in build.js from UglifyJs
+Unexpected token: name (inflection) [build.js:25033,4]
